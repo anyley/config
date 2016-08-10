@@ -1,0 +1,1 @@
+/home/diver/.zprezto/runcoms/zprofile
