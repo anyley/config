@@ -1,1 +1,0 @@
-/home/diver/.zprezto/runcoms/zshenv
